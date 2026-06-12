@@ -1,6 +1,6 @@
 import datetime
 
-x = datetime.datetime(1900, 1, 1)
+x = datetime.datetime(2000, 1, 1)
 
 print(x)
 print ("Aslan OS 0.0.0.1")
