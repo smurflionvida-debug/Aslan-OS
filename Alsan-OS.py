@@ -3,7 +3,7 @@ import datetime
 x = datetime.datetime(1900, 1, 1)
 
 print(x)
-print ("Lion OS 0.0.0")
+print ("Aslan OS 0.0.0")
 "Hostman"
 print("Enter the day:")
 dateday = input()
